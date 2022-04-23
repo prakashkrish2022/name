@@ -10,5 +10,6 @@ public static void main (String []arrays) {
 Employee a = new Employee();
 a.empName();
 a.empId();
+a.toString();
 }
 }
